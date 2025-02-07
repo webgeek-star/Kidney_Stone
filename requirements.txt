@@ -6,4 +6,4 @@ numpy
 pandas
 Pillow
 ultralytics
-opencv-python-headless
+opencv-python-headless  # Replace opencv-python with opencv-python-headless
