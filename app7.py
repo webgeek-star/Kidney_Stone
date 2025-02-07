@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 # Load trained YOLOv5 model
-MODEL_PATH = "C:/Users/SRISHA/yolov5/runs/train/exp4/weights/best.pt"  # Update this path
+MODEL_PATH = "best.pt"  # Update this path
 model = torch.hub.load("ultralytics/yolov5", "custom", path=MODEL_PATH, force_reload=True)
 
 # Custom styles for better text visibility
