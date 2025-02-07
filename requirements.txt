@@ -4,6 +4,6 @@ torchvision
 torchaudio
 numpy
 pandas
-opencv-python-headless
 Pillow
 ultralytics
+opencv-python-headless
